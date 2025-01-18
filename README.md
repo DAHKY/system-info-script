@@ -15,24 +15,20 @@ A Python script to display detailed system information, including CPU, memory, d
 
 ## Installation
 1. Clone the repository:
-   ```bash
+   ```py
    git clone https://github.com/DAHKY/system-info-script.git
 
 2. Navigate to the directory:
-   ```bash
+   ```py
    cd system-info-script
-
-3. Install dependencies
-   ```bash
-   pip install -r requirements.txt
 
 ## Usage
 1. Run the Script
-   ```bash
+   ```py
    python system_info.py
 
 2. Output Example
-   ```bash
+   ```py
    pip install -r requirements.txtSystem Information: {'System': 'Windows', 'Node Name': 'PC', 'Release': '10', ...}
    CPU Information: {'Physical Cores': 4, 'Total Cores': 8, ...}
    ...
