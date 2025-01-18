@@ -1,2 +1,19 @@
-# system-info-script
-A Python script to display detailed system information, created by DAHKY.
+# System Info Script
+
+A Python script to display detailed system information, including CPU, memory, disk, and network details.
+
+## Features
+- Display system details: OS, release, machine, and processor.
+- Show CPU cores, frequency, and usage.
+- List memory stats like total, used, and available memory.
+- Display disk partition information.
+- Retrieve network hostname and IP address.
+
+## Requirements
+- Python 3.8 or later
+- Libraries: `psutil`, `platform`, `socket`
+
+## Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/username/system-info-script.git
