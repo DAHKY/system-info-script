@@ -16,4 +16,4 @@ A Python script to display detailed system information, including CPU, memory, d
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/system-info-script.git
+   git clone https://github.com/DAHKY/system-info-script.git
