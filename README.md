@@ -24,11 +24,11 @@ A Python script to display detailed system information, including CPU, memory, d
 
 ## Usage
 1. Run the Script
-   ```py
+   ```bash
    python system_info.py
 
 2. Output Example
-   ```py
+   ```bash
    pip install -r requirements.txtSystem Information: {'System': 'Windows', 'Node Name': 'PC', 'Release': '10', ...}
    CPU Information: {'Physical Cores': 4, 'Total Cores': 8, ...}
    ...
